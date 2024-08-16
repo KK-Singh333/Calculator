@@ -1,0 +1,1 @@
+This is my first Repository.I made a calculator without use any mathematical library functions. It also calculates value of natural log upto n decimal places which is specified by user, this is done without using math.log()
